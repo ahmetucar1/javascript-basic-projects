@@ -35,7 +35,7 @@ This repo contains simple applications written to gain practice in javascript.
 6-Calculator
 
 
-<img width="1440" alt="Ekran Resmi 2022-09-26 17 32 32" src="https://user-images.githubusercontent.com/104788318/192311549-3c89bd29-4630-4c7d-a8d7-dbe49b2df45f.png">
+<img width="1440" alt="Ekran Resmi 2022-09-26 18 09 23" src="https://user-images.githubusercontent.com/104788318/192313552-cf3c241f-5663-4358-83fb-f32ba3f12ce3.png">
 
 
 
