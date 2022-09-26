@@ -4,7 +4,8 @@ This repo contains simple applications written to gain practice in javascript.
 1-)First Project Digital Clock
 
 
-![Uploading Ekran Resmi 2022-09-25 22.12.26.png…]()
+<img width="1440" alt="Ekran Resmi 2022-09-25 22 12 26" src="https://user-images.githubusercontent.com/104788318/192311868-07ef0d30-b4d1-41f0-ba99-f9ad10d61dec.png">
+
 
 
 2-)Math Question Game
