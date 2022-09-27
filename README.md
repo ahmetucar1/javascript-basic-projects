@@ -1,4 +1,4 @@
-This repo contains simple applications written to gain practice in javascript.
+This repo contains simple applications written to gain practice in Javascript.
 
 
 1-)First Project Digital Clock
