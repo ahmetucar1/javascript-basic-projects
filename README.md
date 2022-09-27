@@ -32,14 +32,15 @@ This repo contains simple applications written to gain practice in javascript.
 <img width="1440" alt="Ekran Resmi 2022-09-26 09 31 13" src="https://user-images.githubusercontent.com/104788318/192311375-4c507d09-7597-4f65-acdd-f54bea739b5c.png">
 
 
-6-Calculator
+6-)Calculator
 
 
 <img width="1440" alt="Ekran Resmi 2022-09-26 18 09 23" src="https://user-images.githubusercontent.com/104788318/192313552-cf3c241f-5663-4358-83fb-f32ba3f12ce3.png">
 
+7-)Save File
 
 
-
+<img width="1440" alt="Ekran Resmi 2022-09-27 14 34 29" src="https://user-images.githubusercontent.com/104788318/192515184-62645bda-dff1-4e7c-a312-c4ec0b3b5198.png">
 
 
 
