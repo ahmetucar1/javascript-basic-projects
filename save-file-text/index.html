@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="app.js" defer></script>
+    <title>Save Documantion</title>
+</head>
+<body>
+    <h1>Metin Kaydet</h1>
+    <div class="wrapper">
+       <textarea required placeholder="Bir şeyler yazın ve indirin"></textarea>
+       <div class="file-options">
+        <div class="option file-name">
+         <label>Dosya İsmi</label>
+         <input type="text" placeholder="Dosya ismi girin">
+        </div>
+        <div class="option save-as">
+         <label>Farklı Kaydet</label>
+         <div class="select-menu">
+         <select>
+            <option value="text/plain">Text File (.txt)</option>
+            <option value="text/javascript">Js File (.js)</option>
+            <option value="text/html">Html File (.html)</option>
+            <option value="image/svg+xml">Svg File (.svg)</option>
+            <option value="application/msword">Doc File (.doc)</option>
+            <option value="application/vnd.ms-powerpoint">Ppt File (.ppt)</option>
+         </select>
+        </div>
+       </div>
+     </div>
+       <button class="save-btn">Dosyayı Farklı Kaydet</button>
+    </div>
+</body>
+</html>
