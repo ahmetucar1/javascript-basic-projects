@@ -47,6 +47,12 @@ This repo contains simple applications written to gain practice in Javascript.
 
 <img width="1440" alt="Ekran Resmi 2022-09-30 10 53 25" src="https://user-images.githubusercontent.com/104788318/193220370-59134dc8-7edc-4e0e-b7d1-d9d0dc66320f.png">
 
+9-)Easy Image Editor
+
+<img width="1440" alt="Ekran Resmi 2022-10-02 13 19 35" src="https://user-images.githubusercontent.com/104788318/193449403-01ff6235-9981-44f1-97e1-46c095b49ccb.png">
 
 
+10-)To Do List
 
+
+<img width="1440" alt="Ekran Resmi 2022-10-02 13 25 26" src="https://user-images.githubusercontent.com/104788318/193449456-66dd2976-9fd8-4a81-8321-93125c195706.png">
