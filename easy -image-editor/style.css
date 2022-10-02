@@ -11,8 +11,15 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-direction: column;
     min-height: 100vh;
     background: #ECF2FD;
+}
+
+h2 {
+    margin: 20px;
+    font-size: 35px;
+    color: #1e1c1c;
 }
 
 .container {
